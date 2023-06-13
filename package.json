@@ -1,6 +1,6 @@
 {
   "name": "view-transitions-api-types",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Type definitions for the View Transitions API",
   "keywords": [
     "View Transitions",
@@ -10,6 +10,7 @@
     "TypeScript",
     "types"
   ],
+  "repository": "https://github.com/lukewarlow/view-transitions-api-types.git",
   "types": "index.d.ts",
   "author": "Luke Warlow",
   "license": "MIT"
